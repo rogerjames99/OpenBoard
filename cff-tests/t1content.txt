@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<iwb xmlns="http://www.imsglobal.org/xsd/iwb_v1p0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.imsglobal.org/xsd/iwb_v1p0 http://www.imsglobal.org/profile/iwb/iwbv1p0_v1p0.xsd http://www.w3.org/2000/svg http://www.imsglobal.org/profile/iwb/svgsubsetv1p0_v1p0.xsd http://www.w3.org/1999/xlink http://www.imsglobal.org/xsd/w3/1999/xlink.xsd">
+  <svg:svg viewbox="0 0 800 800">
+    <svg:pageset>
+      <svg:page id="page0.svg">
+        <svg:rect id="page0.svg_BG_Rect" fill="#ffffff" x="0" y="0" width="800.00" height="600.00"/>
+        <svg:polygon stroke="#000000" stroke-width="3.00" fill="#98fb98" points="568.6281,157.5263 727.4902,157.5263 731.3818,158.4155 738.3405,160.5641 744.9363,164.9357 748.0364,167.0844 753.4780,173.1971 757.3367,180.1618 759.2824,184.0888 761.2282,191.9056 761.9868,196.2771 761.9868,198.4258 762.3825,201.0561 762.3825,375.1754 761.9868,377.3611 761.9868,379.5469 761.2282,383.8813 759.2824,391.6982 755.4239,399.1075 753.4780,402.5899 748.0364,408.7026 741.8362,413.0370 738.3405,415.2228 731.3818,417.4085 727.4902,418.2606 725.5774,418.2606 723.6316,418.7051 568.6281,418.7051 566.2865,418.2606 564.3738,418.2606 560.4822,417.4085 553.5235,415.2228 546.9276,410.8513 543.8275,408.7026 538.4189,402.5899 534.5273,395.6251 532.5815,391.6982 530.6687,383.8813 529.8772,379.5469 529.8772,196.2771 530.6687,191.9056 532.5815,184.0888 536.4731,176.6794 538.4189,173.1971 543.8275,167.0844 550.0276,162.7499 553.5235,160.5641 560.4822,158.4155 564.3738,157.5263 " id="annotation.HPM7V1HFERO4H9RARPHBBPU4R" transform="translate(0,0) rotate(0,646,288)"/>
+        <svg:image id="annotation.0S33JRDIKRM4H6F7545U5R59T" xlink:href="images/annotation.0S33JRDIKRM4H6F7545U5R59T.png" x="579.34" y="326.77" width="184.00" height="83.00" transform="translate(0,0) rotate(0,661,366)"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="559.00" y="367.00" width="26.77" height="32.68" transform="translate(0,0) rotate(0,396,393)" id="annotation.AT79G1AMDNF4REHB2DFBESNOA">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32" id="paragraph.A5SK1DO0RFOK7D99F4M8HJ5JK">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32"><![CDATA[Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="710.00" y="367.00" width="12.45" height="32.68" transform="translate(0,0) rotate(0,403,384)" id="annotation.FV1RVG4OAFO4N994QSJ8832AF">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32" id="paragraph.4OEHQD9PDL2KFCS7JGR9RDNFO">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32"><![CDATA[g]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="613.00" y="293.00" width="74.35" height="32.68" transform="translate(0,0) rotate(0,400,387)" id="annotation.K113RFIKO19KD9RSS4U0813RM">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32" id="paragraph.97U2SF2CFO74LE46LJ3K8M5MT">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32"><![CDATA[x 1000]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:image id="annotation.GD7GCEETR1QKF77JCAOTQBDF7" xlink:href="images/annotation.GD7GCEETR1QKF77JCAOTQBDF7.png" x="544.20" y="187.26" width="174.00" height="147.00" transform="translate(0,0) rotate(0,864,427)"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="589.00" y="228.00" width="41.08" height="32.68" transform="translate(0,0) rotate(0,642,118)" id="annotation.417RB1I6RQU418BVU0M4N7J3H">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32" id="paragraph.Q01L2U6MDGDK1E7B3MHAVLCD0">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32"><![CDATA[1Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="661.00" y="232.00" width="94.18" height="32.68" transform="translate(0,0) rotate(0,379,307)" id="annotation.AJUVCC1RSA04512LOBD1AB5U2">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32" id="paragraph.D7PHDEM07A7K30SGRRICS6LLH">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="21.32"><![CDATA[= 1000g]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="22.00" y="33.00" width="483.57" height="36.79" transform="translate(0,0) rotate(0,332,246)" id="annotation.03DIVSFCAEM4909DHGL9KU47P">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.3BPSHSBAV6EKH0HEBFD2BM0UG">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[LO. To convert units of measurement]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="20.00" y="79.00" width="504.59" height="268.32" transform="translate(0,0) rotate(0,316,219)" id="annotation.9R6I60VSA6JKT09VLMBBUJ6Q5">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.FAPKTKQQGTPKV26EH5DF1GE2K">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Kilograms, grams]]></svg:tspan>
+            </svg:tspan>
+            <svg:tbreak/>
+          </svg:tspan>
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.20RM4G56UL34V5U8D336CNIT5">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[How many grams are there in a kilogram?]]></svg:tspan>
+            </svg:tspan>
+            <svg:tbreak/>
+          </svg:tspan>
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.VP1Q7MOISA0KDB548PNBCARPD">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[1Kg = 1000g]]></svg:tspan>
+            </svg:tspan>
+            <svg:tbreak/>
+          </svg:tspan>
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.MRK64M676LNK9913BRCBQ72CF">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[How many grams are there in 2Kg?]]></svg:tspan>
+            </svg:tspan>
+            <svg:tbreak/>
+          </svg:tspan>
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.EF93SAB5TJ9KH8ACU4TCCRM91">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[2 x 1000 = 2000g]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+      </svg:page>
+      <svg:page id="page1.svg">
+        <svg:rect id="page1.svg_BG_Rect" fill="#ffffff" x="0" y="0" width="800.00" height="600.00"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="23.00" y="28.00" width="483.57" height="36.79" transform="translate(0,0) rotate(0,325,227)" id="annotation.K2CSFHSQ9N5KLEI22UGMIGCHT">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.6UL6CU0ONBF4JC4ABFS8MQEPR">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[LO. To convert units of measurement]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="21.00" y="88.00" width="360.41" height="36.79" transform="translate(0,0) rotate(0,326,222)" id="annotation.L9OFL9CB685KP1AFSIG3VTAUO">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.KAS9OD2FH9GKHBU012BV0CQEK">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Have a go at these questions:]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="22.00" y="140.00" width="206.85" height="119.10" transform="translate(0,0) rotate(0,337,207)" id="annotation.4A5PG4OO94Q473B0UF83M2LB3">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.ISVJUVA8RBB4PCT17SG8SROPV">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[3Kg = __ g]]></svg:tspan>
+            </svg:tspan>
+            <svg:tbreak/>
+          </svg:tspan>
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.541JTCO18OLKTA6AC18539A02">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[5Kg = __ g]]></svg:tspan>
+            </svg:tspan>
+            <svg:tbreak/>
+          </svg:tspan>
+          <svg:tspan fill="#ff0000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#ff0000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.R3ACDK0I8SUKP8QFBEHRV94SG">
+              <svg:tspan fill="#ff0000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[1.5Kg = __ g]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="489.00" y="355.00" width="259.78" height="36.79" transform="translate(0,0) rotate(0,796,277)" id="annotation.N4JTGP5V7OCKLECS07UP118DH">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.R90L7K1793NK7B1NB73O66KJG">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[1.5Kg x 1000 = 1500g]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="568.00" y="167.00" width="83.70" height="36.79" transform="translate(0,0) rotate(0,471,195)" id="annotation.6Q90PCG756O4FAMAJPM55MIM2">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.Q1ITGERM6HEKTE2HMFFOVU755">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[x 1000]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:image id="annotation.RMOS45NNBNEKLADIDRQ1O2ICQ" xlink:href="images/annotation.RMOS45NNBNEKLADIDRQ1O2ICQ.png" x="654.79" y="208.46" width="80.00" height="58.00" transform="translate(0,0) rotate(0,670,213)"/>
+        <svg:image id="annotation.4CE9I48CB704RDDV41F4EN8KV" xlink:href="images/annotation.4CE9I48CB704RDDV41F4EN8KV.png" x="593.74" y="208.46" width="80.00" height="62.00" transform="translate(0,0) rotate(0,609,214)"/>
+        <svg:image id="annotation.MPJ3RV8A2P0K5825MFECUHKPC" xlink:href="images/annotation.MPJ3RV8A2P0K5825MFECUHKPC.png" x="531.98" y="207.06" width="76.00" height="59.00" transform="translate(0,0) rotate(0,545,212)"/>
+        <svg:polyline points="725.666687,290.561401 " stroke="#000000" stroke-width="3.00" stroke-linecap="round" transform="translate(0,0) rotate(0,459,186)" id="annotation.1BG2K0O41UTKL2PBF4CA7PS2F"/>
+        <svg:polyline points="726.368469,328.456146 " stroke="#000000" stroke-width="3.00" stroke-linecap="round" transform="translate(0,0) rotate(0,459,186)" id="annotation.U1RB9S60ABAKPALO4VD6JM1LK"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="490.50" y="233.50" width="60.07" height="36.79" transform="translate(0,0) rotate(0,688,211)" id="annotation.LVQ0TKDKIO34B8NRJJBGOEL41">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.MQCD8K0L2064T5R4NBDJ6K86H">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Th]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="550.11" y="233.50" width="60.07" height="36.79" transform="translate(0,0) rotate(0,688,211)" id="annotation.GSE173TB4AH4930F0TL7G3UAR">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.L6P7DG538G843CQRJFF1LTMNR">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[H]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="609.72" y="233.50" width="60.07" height="36.79" transform="translate(0,0) rotate(0,688,211)" id="annotation.CIQH2NM9AGRKJ45VMS7AULHQF">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.FT0V7P3L966K7DVOFQHQ0JT8B">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[T]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="669.33" y="233.50" width="60.07" height="36.79" transform="translate(0,0) rotate(0,688,211)" id="annotation.9DBQAEE5OV7KV4981H3D0GGJ6">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.78J1RQD3GH7KT04KKT7Q8OGRV">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[U]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="728.94" y="233.50" width="60.07" height="36.79" transform="translate(0,0) rotate(0,688,211)" id="annotation.0DV62C8R57OKH9VCF2QG9B8UR">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.M6VVDIDTBVTKLFGVAUCJ2P5J5">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Tths]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="669.33" y="271.95" width="60.07" height="36.79" transform="translate(0,0) rotate(0,495,169)" id="annotation.HHS6NELJKPM49B43P83L6DNOT">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.CDKDT3J7HP9497BBGBR175SCI">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[1]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="728.94" y="271.95" width="60.07" height="36.79" transform="translate(0,0) rotate(0,495,169)" id="annotation.9NC2RIJFME54VD82PLDLQ4GRJ">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.88OM6Q8EBV6KJ9FA6P23I2GPL">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[5]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="490.50" y="310.39" width="60.07" height="36.79" transform="translate(0,0) rotate(0,459,186)" id="annotation.99GD8VHPN0U4P7EJLSF6SD84T">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.BN2DK932TPJ4J56BH2C729RQ3">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[1]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="550.11" y="310.39" width="60.07" height="36.79" transform="translate(0,0) rotate(0,459,186)" id="annotation.7NQ2LMRN2P94D4E8MAPI6OJT0">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.0HGTAS74BH74D8448LD3TT7GN">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[5]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="609.72" y="310.39" width="60.07" height="36.79" transform="translate(0,0) rotate(0,459,186)" id="annotation.2FI19QEGCBFK50R2NED6MKVG1">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.FU7P6L90VP94DFN9VONCRO9F5">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[0]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="669.33" y="310.39" width="60.07" height="36.79" transform="translate(0,0) rotate(0,459,186)" id="annotation.SL5HU056A3JKNEUS4C1GEH4H9">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.IQJDV3LMANVK557V8990TTJVM">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[0]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:polygon stroke="#000000" stroke-width="3.00" fill="#98fb98" points="266.0410,141.5263 430.6954,141.5263 434.7288,142.4479 441.9413,144.6749 448.7776,149.2058 451.9907,151.4329 457.6306,157.7684 461.6299,164.9872 463.6467,169.0572 465.6635,177.1591 466.4496,181.6899 466.4496,183.9171 466.8598,186.6433 466.8598,367.1110 466.4496,369.3764 466.4496,371.6418 465.6635,376.1344 463.6467,384.2361 459.6475,391.9157 457.6306,395.5250 451.9907,401.8606 445.5645,406.3531 441.9413,408.6185 434.7288,410.8839 430.6954,411.7672 428.7128,411.7672 426.6961,412.2279 266.0410,412.2279 263.6140,411.7672 261.6315,411.7672 257.5980,410.8839 250.3857,408.6185 243.5493,404.0876 240.3362,401.8606 234.7303,395.5250 230.6969,388.3063 228.6802,384.2361 226.6976,376.1344 225.8772,371.6418 225.8772,181.6899 226.6976,177.1591 228.6802,169.0572 232.7136,161.3778 234.7303,157.7684 240.3362,151.4329 246.7624,146.9403 250.3857,144.6749 257.5980,142.4479 261.6315,141.5263 " id="annotation.632454RUC744RCM35AK7OUJL4" transform="translate(0,0) rotate(0,346,277)"/>
+        <svg:image id="annotation.APSE0B1PTGLK3DGP9U06145ME" xlink:href="images/annotation.APSE0B1PTGLK3DGP9U06145ME.png" x="277.14" y="316.94" width="189.00" height="84.00" transform="translate(0,0) rotate(0,796,339)"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="255.00" y="359.00" width="27.75" height="33.87" transform="translate(0,0) rotate(0,531,366)" id="annotation.NOS7CQIGBT0454QAR779ALTJI">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.THNFGQ8OEHR4TBBDKJDTOEJRS">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="413.00" y="358.00" width="12.90" height="33.87" transform="translate(0,0) rotate(0,538,357)" id="annotation.9BFFOSA0HQKKJ1IO4BQDNLD1S">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10" id="paragraph.1CADB5GN7IN4154JA6UOQ7IIK">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10"><![CDATA[g]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="312.00" y="282.00" width="77.06" height="33.87" transform="translate(0,0) rotate(0,535,360)" id="annotation.8FG3EILR8294J2T4UMKN3TPB1">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.HERBLUNQA9GK363UJH6183469">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[x 1000]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:image id="annotation.6SL8G31IBVT458T92GLQNIGEH" xlink:href="images/annotation.6SL8G31IBVT458T92GLQNIGEH.png" x="240.72" y="172.34" width="179.00" height="151.00" transform="translate(0,0) rotate(0,561,412)"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="288.00" y="215.00" width="42.58" height="33.87" transform="translate(0,0) rotate(0,777,91)" id="annotation.VOGVF9M6T9L430FI2KBSJ28B6">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.R6I70PRJBE447A23251N11T5E">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[1Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="362.00" y="219.00" width="97.61" height="33.87" transform="translate(0,0) rotate(0,514,280)" id="annotation.CTOTFHC0G1O4T84HFI06AOGIF">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.TOEH7EJOALRKP3USIV4D0L7FR">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[= 1000g]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="22.00" y="250.00" width="124.34" height="36.79" transform="translate(0,0) rotate(0,312,247)" id="annotation.H9JAD79STJ64L8BB9OOCAU3GS">
+          <svg:tspan fill="#ff0000" font-weight="bold" font-stretch="normal" font-style="italic" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#ff0000" font-weight="bold" font-stretch="normal" font-style="italic" font-family="Comic Sans MS" font-size="24.00" id="paragraph.28JOOBTFQ6F4N2467OO7E67R8">
+              <svg:tspan fill="#ff0000" font-weight="bold" font-stretch="normal" font-style="italic" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Challenge!]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+      </svg:page>
+      <svg:page id="page2.svg">
+        <svg:rect id="page2.svg_BG_Rect" fill="#ffffff" x="0" y="0" width="800.00" height="600.00"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="22.00" y="33.00" width="483.57" height="36.79" transform="translate(0,0) rotate(0,332,246)" id="annotation.47PHG579IUEKB7B763B4THEGU">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.GA8N0EUUBTEKP6S69DKO8D49D">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[LO. To convert units of measurement]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="20.00" y="79.00" width="500.94" height="210.44" transform="translate(0,0) rotate(0,316,219)" id="annotation.P2HK8PQK2KD4J0LC5JVM0DKP9">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.GS8EMTK6OE2K5FK934HP8LL9S">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Kilograms, grams]]></svg:tspan>
+            </svg:tspan>
+            <svg:tbreak/>
+          </svg:tspan>
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.6RQ43NV0JV4KV7GKUFLOHTK34">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[1Kg = 1000g]]></svg:tspan>
+            </svg:tspan>
+            <svg:tbreak/>
+          </svg:tspan>
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.PK1MCOOGAC9KT5PPPFGC2OL5C">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[How many kilograms are there in 2000g?]]></svg:tspan>
+            </svg:tspan>
+            <svg:tbreak/>
+          </svg:tspan>
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.V1I0SUIFL824VFIV52U3HQUFC">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[2000 ÷ 1000 = 2Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:polygon stroke="#000000" stroke-width="3.00" fill="#40e0d0" points="557.5410,165.5263 722.1954,165.5263 726.2288,166.4479 733.4413,168.6749 740.2776,173.2058 743.4907,175.4329 749.1306,181.7684 753.1299,188.9872 755.1467,193.0572 757.1635,201.1591 757.9496,205.6899 757.9496,207.9171 758.3598,210.6433 758.3598,391.1110 757.9496,393.3764 757.9496,395.6418 757.1635,400.1344 755.1467,408.2361 751.1475,415.9157 749.1306,419.5250 743.4907,425.8606 737.0645,430.3531 733.4413,432.6185 726.2288,434.8839 722.1954,435.7672 720.2128,435.7672 718.1961,436.2279 557.5410,436.2279 555.1140,435.7672 553.1315,435.7672 549.0980,434.8839 541.8857,432.6185 535.0493,428.0876 531.8362,425.8606 526.2303,419.5250 522.1969,412.3063 520.1802,408.2361 518.1976,400.1344 517.3772,395.6418 517.3772,205.6899 518.1976,201.1591 520.1802,193.0572 524.2136,185.3778 526.2303,181.7684 531.8362,175.4329 538.2624,170.9403 541.8857,168.6749 549.0980,166.4479 553.1315,165.5263 " id="annotation.3B1V2253C9F49FC8UAUHMSL1J" transform="translate(0,0) rotate(0,638,301)"/>
+        <svg:image id="annotation.O7J2RH53M20K5BFRIPHQ28M1H" xlink:href="images/annotation.O7J2RH53M20K5BFRIPHQ28M1H.png" x="568.64" y="340.94" width="190.00" height="84.00" transform="translate(0,0) rotate(0,1094,405)"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="547.00" y="383.00" width="12.90" height="33.87" transform="translate(0,0) rotate(0,829,432)" id="annotation.EPAFQM9LG7C4J5KE218GFVFJ2">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.QHGOVUV1TK04J7LSUTGKFGC1H">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[g]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="705.00" y="382.00" width="27.75" height="33.87" transform="translate(0,0) rotate(0,836,423)" id="annotation.UKK9I21TFFEKT1I87UNK6RP3M">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10" id="paragraph.71M9QL4M04C4779PFS9671K9O">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10"><![CDATA[Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="604.00" y="306.00" width="75.39" height="36.79" transform="translate(0,0) rotate(0,833,426)" id="annotation.FUH5TBAGVHHKD0EGBPVLVM17G">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="0.00" id="paragraph.17RSNFUGST9K9EDNH9UF8R00V">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[÷]]></svg:tspan>
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[ 1000]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:image id="annotation.KN17ELM793KK948M8IB5AUM76" xlink:href="images/annotation.KN17ELM793KK948M8IB5AUM76.png" x="616.22" y="206.34" width="179.00" height="151.00" transform="translate(0,0) rotate(0,936,446)"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="664.00" y="249.00" width="42.58" height="33.87" transform="translate(0,0) rotate(0,1159,167)" id="annotation.5BOFAA35OLP4N66QETENO7OK9">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.2BR9823VUKEKTDP500D2I7K00">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[1Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="532.00" y="248.00" width="97.61" height="33.87" transform="translate(0,0) rotate(0,690,351)" id="annotation.46TP97IELR3KD3634KL9K43TI">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.T4KJUADRJOV4N42GP5MN5838N">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[1000g =]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+      </svg:page>
+      <svg:page id="page3.svg">
+        <svg:rect id="page3.svg_BG_Rect" fill="#ffffff" x="0" y="0" width="800.00" height="600.00"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="98.00" y="244.00" width="88.69" height="36.79" transform="translate(0,0) rotate(0,652,212)" id="annotation.R22R3B25N6GKD9KFU9NP70RGT">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.H9QTCGQ3OTKKLB8PK7UED0SLB">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[ ÷ 1000]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:image id="annotation.0MELKD1TG51KBCLGSJ0NK69L5" xlink:href="images/annotation.0MELKD1TG51KBCLGSJ0NK69L5.png" x="184.29" y="285.46" width="79.00" height="58.00" transform="translate(0,0) rotate(0,851,230)"/>
+        <svg:image id="annotation.0CVJM6RN67MKH1SP7L9KIBSE8" xlink:href="images/annotation.0CVJM6RN67MKH1SP7L9KIBSE8.png" x="123.24" y="285.46" width="80.00" height="62.00" transform="translate(0,0) rotate(0,790,231)"/>
+        <svg:image id="annotation.50QCT5POOMF4R86FDFVBLT4SL" xlink:href="images/annotation.50QCT5POOMF4R86FDFVBLT4SL.png" x="61.48" y="284.06" width="75.00" height="59.00" transform="translate(0,0) rotate(0,726,229)"/>
+        <svg:polyline points="255.166687,367.561401 " stroke="#000000" stroke-width="3.00" stroke-linecap="round" transform="translate(0,0) rotate(0,640,203)" id="annotation.62GQ31020FE4VAG0OFAQ687KD"/>
+        <svg:polyline points="255.868469,405.456146 " stroke="#000000" stroke-width="3.00" stroke-linecap="round" transform="translate(0,0) rotate(0,640,203)" id="annotation.TFUCEG285RK451TOBJK0LE4N9"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="21.00" y="320.50" width="60.07" height="36.79" transform="translate(0,0) rotate(0,870,238)" id="annotation.R11B77RR7RA4PC1JGHSUFMDH5">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.TU2LOM77TBPK963IMLACNIKQ9">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Th]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="80.61" y="320.50" width="60.07" height="36.79" transform="translate(0,0) rotate(0,870,238)" id="annotation.PSFPBKR7N5AKT6DLPESV0L7M0">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.4LE83R9H94H432K9FFMNL5QL7">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[H]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="140.22" y="320.50" width="60.07" height="36.79" transform="translate(0,0) rotate(0,870,238)" id="annotation.LNDAS2GPNH34TB76MG8588LLT">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.FQGC11DC86G471QP25Q07GN4U">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[T]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="199.83" y="320.50" width="60.07" height="36.79" transform="translate(0,0) rotate(0,870,238)" id="annotation.R7UJN85P4MSKB0OFI007U1LKS">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.U982UOP0O5IK18C55J669116L">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[U]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="259.44" y="320.50" width="60.07" height="36.79" transform="translate(0,0) rotate(0,870,238)" id="annotation.B2NOKOHCF054JCPROBQFIVGEH">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.PPGP3JNU2H6455TE511HPPAF0">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Tths]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="21.00" y="358.95" width="60.07" height="36.79" transform="translate(0,0) rotate(0,-125,335)" id="annotation.8TQBMFLVSP14J7GK2J25MFQ3G">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.4UVOVO773QMK5726S9QDNA5MJ">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[1]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="80.61" y="358.95" width="60.07" height="36.79" transform="translate(0,0) rotate(0,-125,335)" id="annotation.2MDA925G5DU494H7RA13IASO1">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.2QOJOBO3BB0K7DJNA2D7A60G6">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[5]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="140.22" y="358.95" width="60.07" height="36.79" transform="translate(0,0) rotate(0,-125,335)" id="annotation.CBBR7KUL2EQ474M28ON2D980J">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.HHEQLRRIMCLKDDNLG5B6GKFOD">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[0]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="199.83" y="358.95" width="60.07" height="36.79" transform="translate(0,0) rotate(0,-125,335)" id="annotation.FKFABDFF3BKKB92OGQV4EF72E">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.P2ROLEA7T1B45AUBDFA49N19P">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[0]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="199.83" y="397.39" width="60.07" height="36.79" transform="translate(0,0) rotate(0,-125,335)" id="annotation.SIKOIV0MS9D4P9B9407O50M04">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.523G9HB7HAO41AE6F57J92QBN">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[1]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="259.44" y="397.39" width="60.07" height="36.79" transform="translate(0,0) rotate(0,-125,335)" id="annotation.UUT57NMEIGF492PQNSAMLD5CC">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.U71E40M9CGGKB42L0LA8M4S8B">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[5]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="16.00" y="17.00" width="483.57" height="36.79" transform="translate(0,0) rotate(0,318,216)" id="annotation.N4398PRK9UU4RFDIS66LJA87U">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.POSEMJ3FG0L4JC6NDO09EUSIG">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[LO. To convert units of measurement]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="18.00" y="64.00" width="360.41" height="36.79" transform="translate(0,0) rotate(0,314,239)" id="annotation.SLNIQUR3GDAKN1B7RFKEI3MKM">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.G8IU95AG40MK5ACVD5124I6V8">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Have a go at these questions:]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="18.00" y="99.00" width="236.73" height="119.10" transform="translate(0,0) rotate(0,325,259)" id="annotation.P8UO0A945914P0AC62OF8SH8Q">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.9NHVVBCLK4S4F823QD620E80M">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[3000g = __ Kg]]></svg:tspan>
+            </svg:tspan>
+            <svg:tbreak/>
+          </svg:tspan>
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.SLM8G4IFSBM4J316IH9RBTDAP">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[9000g = __ Kg]]></svg:tspan>
+            </svg:tspan>
+            <svg:tbreak/>
+          </svg:tspan>
+          <svg:tspan fill="#ff0000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#ff0000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.813JU70042VKRF73KT1J2GTDA">
+              <svg:tspan fill="#ff0000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[1500g = __ Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:image id="annotation.Q0UFDQSOABS4PCP4EF8NF1MUA" xlink:href="images/annotation.Q0UFDQSOABS4PCP4EF8NF1MUA.png" x="244.82" y="283.77" width="85.00" height="59.00" transform="translate(0,0) rotate(0,262,288)"/>
+        <svg:polyline points="258.157898,379.210541 " stroke="#000000" stroke-width="3.00" stroke-linecap="round" transform="translate(0,0) rotate(0,-125,335)" id="annotation.HI1KNC6M4KIKD46ENHU7EMISB"/>
+        <svg:polyline points="258.157898,415.000000 " stroke="#000000" stroke-width="3.00" stroke-linecap="round" transform="translate(0,0) rotate(0,-125,335)" id="annotation.VE0NKP54LBN4D6VAFM0OT02PK"/>
+        <svg:polyline points="257.456177,342.017548 " stroke="#000000" stroke-width="3.00" stroke-linecap="round" transform="translate(0,0) rotate(0,-125,335)" id="annotation.4OKLGJS3GIS4TFR119S2MAFU6"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="18.00" y="203.00" width="124.34" height="36.79" transform="translate(0,0) rotate(0,308,135)" id="annotation.G1UQCQR2JS9KDA6KE0T4BGFDC">
+          <svg:tspan fill="#ff0000" font-weight="bold" font-stretch="normal" font-style="italic" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#ff0000" font-weight="bold" font-stretch="normal" font-style="italic" font-family="Comic Sans MS" font-size="24.00" id="paragraph.IHJB2JU3ODDKV9MEMODJ51KV3">
+              <svg:tspan fill="#ff0000" font-weight="bold" font-stretch="normal" font-style="italic" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Challenge!]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="47.00" y="444.00" width="256.88" height="36.79" transform="translate(0,0) rotate(0,-88,324)" id="annotation.5E25O1702VH4R54TTFM6H9AKH">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.USQINK4Q4G5KLF3KTSECJSQ7Q">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[1500g ÷ 1000 = 1.5Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:polygon stroke="#000000" stroke-width="3.00" fill="#40e0d0" points="478.5410,63.5263 643.1954,63.5263 647.2288,64.4479 654.4413,66.6749 661.2776,71.2058 664.4907,73.4329 670.1306,79.7684 674.1299,86.9872 676.1467,91.0572 678.1635,99.1591 678.9496,103.6899 678.9496,105.9171 679.3598,108.6433 679.3598,289.1110 678.9496,291.3764 678.9496,293.6418 678.1635,298.1344 676.1467,306.2361 672.1475,313.9157 670.1306,317.5250 664.4907,323.8606 658.0645,328.3531 654.4413,330.6185 647.2288,332.8839 643.1954,333.7672 641.2128,333.7672 639.1961,334.2279 478.5410,334.2279 476.1140,333.7672 474.1315,333.7672 470.0980,332.8839 462.8857,330.6185 456.0493,326.0876 452.8362,323.8606 447.2303,317.5250 443.1969,310.3063 441.1802,306.2361 439.1976,298.1344 438.3772,293.6418 438.3772,103.6899 439.1976,99.1591 441.1802,91.0572 445.2136,83.3778 447.2303,79.7684 452.8362,73.4329 459.2624,68.9403 462.8857,66.6749 470.0980,64.4479 474.1315,63.5263 " id="annotation.O2M37K6JFEHKV23J516FVD51L" transform="translate(0,0) rotate(0,559,199)"/>
+        <svg:image id="annotation.LI6T5G7QEGEK3CRT6NDDKRKCF" xlink:href="images/annotation.LI6T5G7QEGEK3CRT6NDDKRKCF.png" x="489.64" y="238.94" width="190.00" height="84.00" transform="translate(0,0) rotate(0,1467,381)"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="468.00" y="281.00" width="12.90" height="33.87" transform="translate(0,0) rotate(0,1202,408)" id="annotation.4CAS6PR3KHDK12NJ10U4CBNCC">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.2SIO2L9DTO0KF230AUBLASOMQ">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[g]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="626.00" y="280.00" width="27.75" height="33.87" transform="translate(0,0) rotate(0,1209,399)" id="annotation.N1V94AF238PKL4U0MLLAVTMPB">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10" id="paragraph.JLCI7EKHV254756A5KF9ERH7B">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10"><![CDATA[Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="525.00" y="204.00" width="75.39" height="36.79" transform="translate(0,0) rotate(0,1206,402)" id="annotation.4Q9KMHVF88R4767090KDB7UVK">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="0.00" id="paragraph.B28ELL0TN9OK31OQ1Q6MB03KK">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[÷]]></svg:tspan>
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[ 1000]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:image id="annotation.G1FQHK20QI1K9FJEL1F3UFDKC" xlink:href="images/annotation.G1FQHK20QI1K9FJEL1F3UFDKC.png" x="537.22" y="104.34" width="179.00" height="151.00" transform="translate(0,0) rotate(0,857,344)"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="585.00" y="147.00" width="42.58" height="33.87" transform="translate(0,0) rotate(0,1532,143)" id="annotation.R1URPJ5PPQFKL9UTBB1S588JL">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.UJVCKVQ0N6HKH51M4PPR6RPOA">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[1Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="453.00" y="146.00" width="97.61" height="33.87" transform="translate(0,0) rotate(0,1063,327)" id="annotation.N65K8787U99KLA4PTNAVPDHUI">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.0O6HT4T5S4S4H33CDSFKUD9GK">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[1000g =]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+      </svg:page>
+      <svg:page id="page4.svg">
+        <svg:rect id="page4.svg_BG_Rect" fill="#ffffff" x="0" y="0" width="800.00" height="600.00"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="16.00" y="18.00" width="483.57" height="36.79" transform="translate(0,0) rotate(0,304,104)" id="annotation.GBH4N5HP3764PBTB0T5SC0I88">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.46S5LMHF23IKB9VS4RPGB24VE">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[LO. To convert units of measurement]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:polygon stroke="#000000" stroke-width="3.00" fill="#98fb98" points="90.0410,120.5263 254.6954,120.5263 258.7288,121.4479 265.9413,123.6749 272.7776,128.2058 275.9907,130.4329 281.6306,136.7684 285.6299,143.9872 287.6467,148.0572 289.6635,156.1591 290.4496,160.6899 290.4496,162.9171 290.8598,165.6433 290.8598,346.1110 290.4496,348.3764 290.4496,350.6418 289.6635,355.1344 287.6467,363.2361 283.6475,370.9157 281.6306,374.5250 275.9907,380.8606 269.5645,385.3531 265.9413,387.6185 258.7288,389.8839 254.6954,390.7672 252.7128,390.7672 250.6961,391.2279 90.0410,391.2279 87.6140,390.7672 85.6315,390.7672 81.5980,389.8839 74.3857,387.6185 67.5493,383.0876 64.3362,380.8606 58.7303,374.5250 54.6969,367.3063 52.6802,363.2361 50.6976,355.1344 49.8772,350.6418 49.8772,160.6899 50.6976,156.1591 52.6802,148.0572 56.7136,140.3778 58.7303,136.7684 64.3362,130.4329 70.7624,125.9403 74.3857,123.6749 81.5980,121.4479 85.6315,120.5263 " id="annotation.NKFJ7M60656K5BOVEKP28SS88" transform="translate(0,0) rotate(0,170,256)"/>
+        <svg:image id="annotation.RK9MEUA49A64L26MPOR6UKV3F" xlink:href="images/annotation.RK9MEUA49A64L26MPOR6UKV3F.png" x="101.14" y="295.94" width="189.00" height="84.00" transform="translate(0,0) rotate(0,781,360)"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="79.00" y="338.00" width="27.75" height="33.87" transform="translate(0,0) rotate(0,516,387)" id="annotation.PN2KCKBIIG1KP9O17RP8RE80O">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.VECU4OVQ6OP4N5H0HG90S6CI0">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="237.00" y="337.00" width="12.90" height="33.87" transform="translate(0,0) rotate(0,523,378)" id="annotation.AD00VN930TB43AHO2865P596Q">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10" id="paragraph.IMHV3FLJVQVKJEJTTP0VIPKIR">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10"><![CDATA[g]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="136.00" y="261.00" width="77.06" height="33.87" transform="translate(0,0) rotate(0,520,381)" id="annotation.434ND76K894KJF2G90JLNPV77">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.F7C4EMJ5UAK493FUCFFJ4FT4U">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[x 1000]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:image id="annotation.CAONC48JU8PK91P1IGGECTS1E" xlink:href="images/annotation.CAONC48JU8PK91P1IGGECTS1E.png" x="64.72" y="151.34" width="179.00" height="151.00" transform="translate(0,0) rotate(0,385,391)"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="112.00" y="194.00" width="42.58" height="33.87" transform="translate(0,0) rotate(0,762,112)" id="annotation.7GH5TL8PNCJ4D6K1AH5FHNS9T">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.CHHM17SD37RKB7L4P2BR1OM2V">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[1Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="186.00" y="198.00" width="97.61" height="33.87" transform="translate(0,0) rotate(0,499,301)" id="annotation.E4969FP6PK1KD094OLELQ4JD6">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.BFUOI9GB4KN4V17QH70KHO6EC">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[= 1000g]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="48.00" y="77.00" width="118.21" height="36.79" transform="translate(0,0) rotate(0,322,238)" id="annotation.PLTF57GEU7U497KH03V5DM6PM">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.7AEPR9KUNT1KN5D5EU8F2939U">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Kilograms]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="224.00" y="77.00" width="77.50" height="36.79" transform="translate(0,0) rotate(0,348,232)" id="annotation.MMQ6DO7UA4T4N83PPMGT1OKQB">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.I41B3O0A1864TBFL2G2P0VS36">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Grams]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:line stroke="#000000" stroke-width="3.00" stroke-linecap="round" x1="169.12" y1="95.44" x2="205.61" y2="95.44" id="annotation.78846AEBB9I45D8JRC185SGJ1" transform="translate(0,0) rotate(0,187,95)"/>
+        <svg:polygon stroke="#000000" stroke-width="3.00" fill="#40e0d0" points="442.0410,120.5263 606.6954,120.5263 610.7288,121.4479 617.9413,123.6749 624.7776,128.2058 627.9907,130.4329 633.6306,136.7684 637.6299,143.9872 639.6467,148.0572 641.6635,156.1591 642.4496,160.6899 642.4496,162.9171 642.8598,165.6433 642.8598,346.1110 642.4496,348.3764 642.4496,350.6418 641.6635,355.1344 639.6467,363.2361 635.6475,370.9157 633.6306,374.5250 627.9907,380.8606 621.5645,385.3531 617.9413,387.6185 610.7288,389.8839 606.6954,390.7672 604.7128,390.7672 602.6961,391.2279 442.0410,391.2279 439.6140,390.7672 437.6315,390.7672 433.5980,389.8839 426.3857,387.6185 419.5493,383.0876 416.3362,380.8606 410.7303,374.5250 406.6969,367.3063 404.6802,363.2361 402.6976,355.1344 401.8772,350.6418 401.8772,160.6899 402.6976,156.1591 404.6802,148.0572 408.7136,140.3778 410.7303,136.7684 416.3362,130.4329 422.7624,125.9403 426.3857,123.6749 433.5980,121.4479 437.6315,120.5263 " id="annotation.KR39957IFJ647DCFJJ8J7OQR9" transform="translate(0,0) rotate(0,522,256)"/>
+        <svg:image id="annotation.ICPB0P9ER05KVAL73DHLLL8R3" xlink:href="images/annotation.ICPB0P9ER05KVAL73DHLLL8R3.png" x="453.14" y="295.94" width="189.00" height="84.00" transform="translate(0,0) rotate(0,1603,402)"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="432.00" y="338.00" width="12.90" height="33.87" transform="translate(0,0) rotate(0,1338,429)" id="annotation.0JF8QAFVND54HB8NBOAL76D9F">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.7KA48CHKBBM41DJGQ4FDMIRBR">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[g]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="590.00" y="337.00" width="27.75" height="33.87" transform="translate(0,0) rotate(0,1345,420)" id="annotation.5D3KA5R6QDS4N7NH1PF4CI7R8">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10" id="paragraph.6FQGBUDKR304N25SMF80BBMFG">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.10"><![CDATA[Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="489.00" y="261.00" width="75.39" height="36.79" transform="translate(0,0) rotate(0,1342,423)" id="annotation.QK9ROLHL7O449ADKL1RE2CDJS">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="0.00" id="paragraph.F65INM8TL5SKT5CRFR0O2SPFP">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[÷]]></svg:tspan>
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[ 1000]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:image id="annotation.PT8F7TOM46RKVFBJBGPF3S5JO" xlink:href="images/annotation.PT8F7TOM46RKVFBJBGPF3S5JO.png" x="500.72" y="161.34" width="179.00" height="151.00" transform="translate(0,0) rotate(0,821,401)"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="549.00" y="204.00" width="42.58" height="33.87" transform="translate(0,0) rotate(0,1668,164)" id="annotation.GRCQ4UJPF8V47C15RQT9KEF7R">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.0MHO5DSVIIC4L35BV1BLM57RJ">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[1Kg]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="417.00" y="203.00" width="97.61" height="33.87" transform="translate(0,0) rotate(0,1199,348)" id="annotation.H2NJAMQLKIE4D6B3RHP37H5T2">
+          <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" text-align="start">
+            <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09" id="paragraph.HB26I665T4Q4F0PJB426J0FR3">
+              <svg:tspan fill="#000000" font-weight="bold" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="22.09"><![CDATA[1000g =]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="532.00" y="72.00" width="118.21" height="36.79" transform="translate(0,0) rotate(0,824,263)" id="annotation.BM4MA9V3TGFKB0Q64J6JEU1BJ">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.V44S9O2592TK17KLJB76NVK7R">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Kilograms]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+        <svg:line stroke="#000000" stroke-width="3.00" stroke-linecap="round" x1="486.12" y1="91.44" x2="522.61" y2="91.44" id="annotation.P5S84R63VH2K53RV0LIURF42L" transform="translate(0,0) rotate(0,645,141)"/>
+        <svg:textarea fill="none" font-weight="normal" font-stretch="normal" font-style="normal" font-family="" font-size="0.00" x="403.00" y="72.00" width="77.50" height="36.79" transform="translate(0,0) rotate(0,721,257)" id="annotation.AK0DFD3LE0KKB4PF3NRD9C2KC">
+          <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" text-align="start">
+            <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00" id="paragraph.9V1HEF78NDS4348L6H923IQV0">
+              <svg:tspan fill="#000000" font-weight="normal" font-stretch="normal" font-style="normal" font-family="Comic Sans MS" font-size="24.00"><![CDATA[Grams]]></svg:tspan>
+            </svg:tspan>
+          </svg:tspan>
+        </svg:textarea>
+      </svg:page>
+    </svg:pageset>
+  </svg:svg>
+  <element ref="page0.svg_BG_Rect" background="true"/>
+  <element ref="page1.svg_BG_Rect" background="true"/>
+  <element ref="page2.svg_BG_Rect" background="true"/>
+  <element ref="page3.svg_BG_Rect" background="true"/>
+  <element ref="page4.svg_BG_Rect" background="true"/>
+  <element ref="annotation.78846AEBB9I45D8JRC185SGJ1" stroke-lineshape-end="arrow"/>
+  <element ref="annotation.P5S84R63VH2K53RV0LIURF42L" stroke-lineshape-end="arrow"/>
+  <tspan ref="paragraph.ISVJUVA8RBB4PCT17SG8SROPV" type="list" list-style-type="decimal"/>
+  <tspan ref="paragraph.541JTCO18OLKTA6AC18539A02" type="list" list-style-type="decimal"/>
+  <tspan ref="paragraph.R3ACDK0I8SUKP8QFBEHRV94SG" type="list" list-style-type="decimal"/>
+  <tspan ref="paragraph.9NHVVBCLK4S4F823QD620E80M" type="list" list-style-type="decimal"/>
+  <tspan ref="paragraph.SLM8G4IFSBM4J316IH9RBTDAP" type="list" list-style-type="decimal"/>
+  <tspan ref="paragraph.813JU70042VKRF73KT1J2GTDA" type="list" list-style-type="decimal"/>
+  <group>
+    <element ref="annotation.HPM7V1HFERO4H9RARPHBBPU4R"/>
+    <element ref="annotation.0S33JRDIKRM4H6F7545U5R59T"/>
+    <element ref="annotation.AT79G1AMDNF4REHB2DFBESNOA"/>
+    <element ref="annotation.FV1RVG4OAFO4N994QSJ8832AF"/>
+    <element ref="annotation.K113RFIKO19KD9RSS4U0813RM"/>
+    <element ref="annotation.GD7GCEETR1QKF77JCAOTQBDF7"/>
+    <element ref="annotation.417RB1I6RQU418BVU0M4N7J3H"/>
+    <element ref="annotation.AJUVCC1RSA04512LOBD1AB5U2"/>
+  </group>
+  <group>
+    <element ref="annotation.N4JTGP5V7OCKLECS07UP118DH"/>
+    <element ref="annotation.6Q90PCG756O4FAMAJPM55MIM2"/>
+    <element ref="annotation.RMOS45NNBNEKLADIDRQ1O2ICQ"/>
+    <element ref="annotation.4CE9I48CB704RDDV41F4EN8KV"/>
+    <element ref="annotation.MPJ3RV8A2P0K5825MFECUHKPC"/>
+    <element ref="annotation.1BG2K0O41UTKL2PBF4CA7PS2F"/>
+    <element ref="annotation.U1RB9S60ABAKPALO4VD6JM1LK"/>
+  </group>
+  <group>
+    <element ref="annotation.632454RUC744RCM35AK7OUJL4"/>
+    <element ref="annotation.APSE0B1PTGLK3DGP9U06145ME"/>
+    <element ref="annotation.NOS7CQIGBT0454QAR779ALTJI"/>
+    <element ref="annotation.9BFFOSA0HQKKJ1IO4BQDNLD1S"/>
+    <element ref="annotation.8FG3EILR8294J2T4UMKN3TPB1"/>
+    <element ref="annotation.6SL8G31IBVT458T92GLQNIGEH"/>
+    <element ref="annotation.VOGVF9M6T9L430FI2KBSJ28B6"/>
+    <element ref="annotation.CTOTFHC0G1O4T84HFI06AOGIF"/>
+  </group>
+  <group>
+    <element ref="annotation.3B1V2253C9F49FC8UAUHMSL1J"/>
+    <element ref="annotation.O7J2RH53M20K5BFRIPHQ28M1H"/>
+    <element ref="annotation.EPAFQM9LG7C4J5KE218GFVFJ2"/>
+    <element ref="annotation.UKK9I21TFFEKT1I87UNK6RP3M"/>
+    <element ref="annotation.FUH5TBAGVHHKD0EGBPVLVM17G"/>
+    <element ref="annotation.KN17ELM793KK948M8IB5AUM76"/>
+    <element ref="annotation.5BOFAA35OLP4N66QETENO7OK9"/>
+    <element ref="annotation.46TP97IELR3KD3634KL9K43TI"/>
+  </group>
+  <group>
+    <element ref="annotation.R22R3B25N6GKD9KFU9NP70RGT"/>
+    <element ref="annotation.0MELKD1TG51KBCLGSJ0NK69L5"/>
+    <element ref="annotation.0CVJM6RN67MKH1SP7L9KIBSE8"/>
+    <element ref="annotation.50QCT5POOMF4R86FDFVBLT4SL"/>
+    <element ref="annotation.62GQ31020FE4VAG0OFAQ687KD"/>
+    <element ref="annotation.TFUCEG285RK451TOBJK0LE4N9"/>
+  </group>
+  <group>
+    <element ref="annotation.O2M37K6JFEHKV23J516FVD51L"/>
+    <element ref="annotation.LI6T5G7QEGEK3CRT6NDDKRKCF"/>
+    <element ref="annotation.4CAS6PR3KHDK12NJ10U4CBNCC"/>
+    <element ref="annotation.N1V94AF238PKL4U0MLLAVTMPB"/>
+    <element ref="annotation.4Q9KMHVF88R4767090KDB7UVK"/>
+    <element ref="annotation.G1FQHK20QI1K9FJEL1F3UFDKC"/>
+    <element ref="annotation.R1URPJ5PPQFKL9UTBB1S588JL"/>
+    <element ref="annotation.N65K8787U99KLA4PTNAVPDHUI"/>
+  </group>
+  <group>
+    <element ref="annotation.NKFJ7M60656K5BOVEKP28SS88"/>
+    <element ref="annotation.RK9MEUA49A64L26MPOR6UKV3F"/>
+    <element ref="annotation.PN2KCKBIIG1KP9O17RP8RE80O"/>
+    <element ref="annotation.AD00VN930TB43AHO2865P596Q"/>
+    <element ref="annotation.434ND76K894KJF2G90JLNPV77"/>
+    <element ref="annotation.CAONC48JU8PK91P1IGGECTS1E"/>
+    <element ref="annotation.7GH5TL8PNCJ4D6K1AH5FHNS9T"/>
+    <element ref="annotation.E4969FP6PK1KD094OLELQ4JD6"/>
+    <element ref="annotation.PLTF57GEU7U497KH03V5DM6PM"/>
+    <element ref="annotation.MMQ6DO7UA4T4N83PPMGT1OKQB"/>
+    <element ref="annotation.78846AEBB9I45D8JRC185SGJ1"/>
+  </group>
+  <group>
+    <element ref="annotation.KR39957IFJ647DCFJJ8J7OQR9"/>
+    <element ref="annotation.ICPB0P9ER05KVAL73DHLLL8R3"/>
+    <element ref="annotation.0JF8QAFVND54HB8NBOAL76D9F"/>
+    <element ref="annotation.5D3KA5R6QDS4N7NH1PF4CI7R8"/>
+    <element ref="annotation.QK9ROLHL7O449ADKL1RE2CDJS"/>
+    <element ref="annotation.PT8F7TOM46RKVFBJBGPF3S5JO"/>
+    <element ref="annotation.GRCQ4UJPF8V47C15RQT9KEF7R"/>
+    <element ref="annotation.H2NJAMQLKIE4D6B3RHP37H5T2"/>
+    <element ref="annotation.BM4MA9V3TGFKB0Q64J6JEU1BJ"/>
+    <element ref="annotation.P5S84R63VH2K53RV0LIURF42L"/>
+    <element ref="annotation.AK0DFD3LE0KKB4PF3NRD9C2KC"/>
+  </group>
+</iwb>

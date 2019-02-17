@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<iwb xmlns="http://www.imsglobal.org/xsd/iwb_v1p0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://www.imsglobal.org/xsd/iwb_v1p0 http://www.imsglobal.org/profile/iwb/iwbv1p0_v1p0.xsd http://www.w3.org/2000/svg http://www.imsglobal.org/profile/iwb/svgsubsetv1p0_v1p0.xsd http://www.w3.org/1999/xlink http://www.imsglobal.org/xsd/w3/1999/xlink.xsd">
+  <svg:svg viewbox="0 0 800 800">
+    <svg:pageset>
+      <svg:page id="page2.svg">
+        <svg:rect id="page2.svg_BG_Rect" fill="#ffffff" x="0" y="0" width="800.00" height="600.00"/>
+        <svg:image x="140.00" y="184.94" width="400.00" height="274.00" xlink:href="images/polygon-3-sides-triangle-med.jpg" transform="translate(0,0) rotate(0,447,142)" id="annotation.F1RVI0BAFUJK5FV2S4AJIAHAF"/>
+      </svg:page>
+    </svg:pageset>
+  </svg:svg>
+  <element ref="page2.svg_BG_Rect" background="true"/>
+</iwb>
